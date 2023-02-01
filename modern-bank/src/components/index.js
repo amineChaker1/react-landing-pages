@@ -9,8 +9,8 @@ import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
 import GetStarted from "./GetStarted";
-import FeedbackCard from "./FeedbackCard";
 import Button from "./Button";
+import FeedbackCard from "./FeedbackCard";
 
 export {
   Navbar,
@@ -23,7 +23,7 @@ export {
   Footer,
   Testimonials,
   Hero,
-  Button,
   GetStarted,
+  Button,
   FeedbackCard,
 };

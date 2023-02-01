@@ -1,18 +1,18 @@
 import styles from "./style";
 import {
+  Billing,
+  Business,
+  CardDeal,
+  Clients,
+  CTA,
+  Footer,
   Navbar,
   Stats,
   Testimonials,
   Hero,
   GetStarted,
-  Footer,
-  FeedbackCard,
-  CTA,
-  Clients,
-  CardDeal,
   Button,
-  Business,
-  Billing,
+  FeedbackCard,
 } from "./components";
 
 const App = () => (
